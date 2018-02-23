@@ -1,0 +1,18 @@
+{
+  "name": "keep-loader",
+  "version": "0.7.1",
+  "description": "Generate different code based on the development and production environment, just like the macro features of other compiled programming languages",
+  "main": "index.js",
+  "author": {
+    "name": "wendu"
+  },
+  "bugs": {
+    "url": "https://github.com/wendux/keep-loader/issues"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esprima": "^4.0.0",
+    "loader-utils": "^1.1.0"
+  }
+}
